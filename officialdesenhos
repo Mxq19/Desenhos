@@ -11,15 +11,15 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Arca Do Zé Colméia[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Arca Do Zé Colméia[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/A4L136i.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Arca_Do_Ze_Colmeia</externallink>
+<externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Ze_Comeia/A_Arca_Do_Ze_Colmeia</externallink>
 <fanart></fanart>
 <info>Desenhos</info>
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Família Addams[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Família Addams[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/C51QB5U.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Familia_Addams</externallink>
 <fanart></fanart>
@@ -27,21 +27,21 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Família Drácula[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Família Drácula[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/QHhFR3R.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Familia_Dracula</externallink>
 <fanart></fanart>
 <info>Desenhos</info>
 </channel>
 <channel>
-<name>[COLOR white][B]A Familia Urso[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Familia Urso[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/1S76YmT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Familia_Urso</externallink>
 <fanart></fanart>
 <info>Desenhos</info>
 </channel>
 <channel>
-<name>[COLOR white][B]A Formiga Atomica[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Formiga Atomica[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/i9kv2W2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Formiga_Atomica</externallink>
 <fanart></fanart>
@@ -49,7 +49,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Formiga e o Tamandua[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Formiga e o Tamandua[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/XWJZ8Z5.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Formiga_e_o_Tamandua</externallink>
 <fanart></fanart>
@@ -57,7 +57,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Nossa Turma[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Nossa Turma[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/BS2Wh4T.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Nossa_Turma</externallink>
 <fanart></fanart>
@@ -65,7 +65,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A TURMA DO MANDA CHUVA[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A TURMA DO MANDA CHUVA[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/3Zw2eLG.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Turma_do_Manda_Chuva</externallink>
 <fanart></fanart>
@@ -73,7 +73,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]A Vaca E o Frango[/COLOR][/B]</name>
+<name>[I][COLOR white][B]A Vaca E o Frango[/COLOR][/B][/I]</name>
 <thumbnail>https://s20.postimg.cc/f2yu510kd/Thumbnail_A_Vaca_e_o_Frango.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/A_Vaca_e_o_Frango</externallink>
 <fanart></fanart>
@@ -81,7 +81,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Andy Panda[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Andy Panda[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/tHKMNFi.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Andy_Panda</externallink>
 <fanart></fanart>
@@ -90,7 +90,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Aquaman[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Aquaman[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/hDqRpIC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Aquaman</externallink>
 <fanart></fanart>
@@ -98,7 +98,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Arquivo Cãofidencial[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Arquivo Cãofidencial[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2T8BrTf</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Arquivo_Caofidencial</externallink>
 <fanart></fanart>
@@ -106,7 +106,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]As Aventuras De Jackie Chan[/COLOR][/B]</name>
+<name>[I][COLOR white][B]As Aventuras De Jackie Chan[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/Mx3vQr4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/As_Aventuras_De_Jackie_Chan</externallink>
 <fanart></fanart>
@@ -114,7 +114,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]As Aventuras de Tintim[/COLOR][/B]</name>
+<name>[I][COLOR white][B]As Aventuras de Tintim[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/WrhGwoe.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/As_Aventuras_de_Tintim</externallink>
 <fanart></fanart>
@@ -122,7 +122,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]As Aventuras do Pequeno Príncipe[/COLOR][/B]</name>
+<name>[I][COLOR white][B]As Aventuras do Pequeno Príncipe[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2PM9cJa</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/As_Aventuras_do_Pequeno_Principe</externallink>
 <fanart></fanart>
@@ -130,7 +130,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]As Mumias Vivas[/COLOR][/B]</name>
+<name>[I][COLOR white][B]As Mumias Vivas[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2v5ostq</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/As_Mumias_Vivas</externallink>
 <fanart></fanart>
@@ -140,7 +140,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Avatar: A lenda de Aang[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Avatar: A lenda de Aang[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/BBtTI8p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Avatar_A_lenda_de_Aang</externallink>
 <fanart></fanart>
@@ -150,7 +150,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Avatar: A lenda de Korra[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Avatar: A lenda de Korra[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/d4RsGjf.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Avatar_A_Lenda_De_Korra</externallink>
 <fanart></fanart>
@@ -158,7 +158,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Bacamarte e Chumbinho[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Bacamarte e Chumbinho[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/jGHLHao.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Bacamarte_e_Chumbinho</externallink>
 <fanart></fanart>
@@ -166,7 +166,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Bob Esponja[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Bob Esponja[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/bVP8vCI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Bob_Esponja</externallink>
 <fanart></fanart>
@@ -174,7 +174,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Capitão America 1966[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Capitão America 1966[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/d6HnDhI.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Capitao_America_1966</externallink>
 <fanart></fanart>
@@ -185,7 +185,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Capitão Caverna e As Panterinhas[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Capitão Caverna e As Panterinhas[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2T6MHiN</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Capitao_Caverna_e_As_Panterinhas</externallink>
 <fanart></fanart>
@@ -194,7 +194,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Capitão Planeta[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Capitão Planeta[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/vL1xzbk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Capitao_Planeta</externallink>
 <fanart></fanart>
@@ -202,7 +202,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Cavalo de Fogo[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Cavalo de Fogo[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/qGOln8t.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Cavalo_de_Fogo</externallink>
 <fanart></fanart>
@@ -210,7 +210,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Caverna Do Dragão[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Caverna Do Dragão[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/ZRrjPjh.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Caverna_do_Dragao</externallink>
 <fanart></fanart>
@@ -218,7 +218,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]CHAVES EM DESENHO[/COLOR][/B]</name>
+<name>[I][COLOR white][B]CHAVES EM DESENHO[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/82VVDtl.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Chaves_Em_Desenhos</externallink>
 <fanart></fanart>
@@ -226,7 +226,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Corrida Maluca[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Corrida Maluca[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/f0O2Aoa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Corrida_Maluca</externallink>
 <fanart></fanart>
@@ -234,7 +234,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Denis o Pimentinha[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Denis o Pimentinha[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/32dITAD</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Denis_o_Pimentinha</externallink>
 <fanart></fanart>
@@ -242,7 +242,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Dick Vigarista e Muttley[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Dick Vigarista e Muttley[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/a2tEIba.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Dick_Vigarista_e_Muttley</externallink>
 <fanart></fanart>
@@ -250,7 +250,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Dino Boy e o Vale Perdido[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Dino Boy e o Vale Perdido[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/zTuPGvn.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Dino_Boy_e_o_Vale_Perdido</externallink>
 <fanart></fanart>
@@ -259,7 +259,7 @@
 
 
 <channel>
-<name>[COLOR white][B]DOUG[/COLOR][/B]</name>
+<name>[I][COLOR white][B]DOUG[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/phaNaoy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Doug</externallink>
 <fanart></fanart>
@@ -267,7 +267,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Duck Tales[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Duck Tales[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/Nu8Y0Av.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Duck_Tales</externallink>
 <fanart></fanart>
@@ -275,7 +275,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Fantasminha Legal[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Fantasminha Legal[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/oGpfIMB.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Fantasminha_Legal</externallink>
 <fanart></fanart>
@@ -284,7 +284,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Flash Gordon[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Flash Gordon[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2SV8USj</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Flash_Gordon</externallink>
 <fanart></fanart>
@@ -293,7 +293,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Flintstones[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Flintstones[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/VUsB9w6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Flintstones</externallink>
 <fanart></fanart>
@@ -301,7 +301,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]He-Man[/COLOR][/B]</name>
+<name>[I][COLOR white][B]He-Man[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/24JVt2p.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/He-Man</externallink>
 <fanart></fanart>
@@ -309,7 +309,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Homem Aranha[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Homem Aranha[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/BXddssE.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Homem_Aranha</externallink>
 <fanart></fanart>
@@ -317,7 +317,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Homem Aranha e Seus Amigos[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Homem Aranha e Seus Amigos[/COLOR][/B][/I]</name>
 <thumbnail>https://www.superanimes.tv/img/desenhos/2015/12-H/Homem-Aranha-e-Seus-Amigos.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Homem-Aranha-e-Seus-Amigos</externallink>
 <fanart></fanart>
@@ -325,7 +325,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Homem-Pássaro[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Homem-Pássaro[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/rZ0kHvx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Homem-Passaro</externallink>
 <fanart></fanart>
@@ -333,7 +333,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Inspetor Bugiganga[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Inspetor Bugiganga[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/cNOuUE1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Inspetor_Bugiganga</externallink>
 <fanart></fanart>
@@ -341,14 +341,14 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Justice League Action[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Justice League Action[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/J6M6YL0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Justice_League_Action</externallink>
 <fanart></fanart>
 <info>Desenhos</info>
 </channel>
 <channel>
-<name>[COLOR white][B]Lanterna Verde[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Lanterna Verde[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/j4sFrnd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Lanterna_Verde</externallink>
 <fanart></fanart>
@@ -356,7 +356,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Lula Lele[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Lula Lele[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/XK6ZVp8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Lula_Lele</externallink>
 <fanart></fanart>
@@ -364,7 +364,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Luluzinha[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Luluzinha[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2VoXM1k</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Luluzinha</externallink>
 <fanart></fanart>
@@ -373,7 +373,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Marsupilami[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Marsupilami[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/lqyzZUm.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Marsupilami</externallink>
 <fanart></fanart>
@@ -381,7 +381,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]MIB: Homens De Preto[/COLOR][/B]</name>
+<name>[I][COLOR white][B]MIB: Homens De Preto[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/qqqjYZd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/MIB_Homens_De_Preto</externallink>
 <fanart></fanart>
@@ -389,7 +389,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Mickey e Donald[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Mickey e Donald[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/UtMn3LJ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Mickey_e_Donald</externallink>
 <fanart></fanart>
@@ -398,7 +398,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Mortal Kombat - Defensores Da Terra[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Mortal Kombat - Defensores Da Terra[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/qdJjS8k.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Mortal_Kombat_Defensores_Da_Terra</externallink>
 <fanart></fanart>
@@ -406,7 +406,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Mulher Aranha[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Mulher Aranha[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/mfJZFZk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Mulher_Aranha</externallink>
 <fanart></fanart>
@@ -414,7 +414,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]O Desafio dos Superamigos[/COLOR][/B]</name>
+<name>[I][COLOR white][B]O Desafio dos Superamigos[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/G0GJmkm.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/O_Desafio_dos_Superamigos</externallink>
 <fanart></fanart>
@@ -423,7 +423,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Gasparzinho o Fantasminha Camarada 1973[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Gasparzinho o Fantasminha Camarada 1973[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/XXDwu11.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/o_Fantasminha_Camarada_1973</externallink>
 <fanart></fanart>
@@ -431,7 +431,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]O Incrivel Hulk[/COLOR][/B]</name>
+<name>[I][COLOR white][B]O Incrivel Hulk[/COLOR][/B][/I]</name>
 <thumbnail>https://i.pinimg.com/originals/7e/c1/2f/7ec12fab9fe1606c54e9fa2d7f8428c1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/O_Incrivel_Hulk</externallink>
 <fanart></fanart>
@@ -439,7 +439,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]O Vale dos Dinossauros[/COLOR][/B]</name>
+<name>[I][COLOR white][B]O Vale dos Dinossauros[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/wlEB1G3.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/O_Vale_dos_Dinossauros</externallink>
 <fanart></fanart>
@@ -447,7 +447,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Os Apuros de Penélope Charmosa[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Apuros de Penélope Charmosa[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/38Xccd0</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Apuros_de_Penelope_Charmosa</externallink>
 <fanart></fanart>
@@ -455,7 +455,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Os Cavaleiros da Arábia[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Cavaleiros da Arábia[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2HPmwI6</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Cavaleiros_da_Arabia</externallink>
 <fanart></fanart>
@@ -464,7 +464,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Os Centurions[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Centurions[/COLOR][/B][/I]</name>
 <thumbnail>https://i.pinimg.com/236x/79/22/24/79222441d48127ab17aab8b387ee29b2.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Centurions</externallink>
 <fanart></fanart>
@@ -473,7 +473,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Os Herculóides[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Herculóides[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/WLVB8pn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Herculoides</externallink>
 <fanart></fanart>
@@ -481,7 +481,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Os Impossíveis[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Impossíveis[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/E1WeFjV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Impossiveis</externallink>
 <fanart></fanart>
@@ -490,7 +490,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Os Jetsons[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Jetsons[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/CvzbCJ1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Jetsons</externallink>
 <fanart></fanart>
@@ -499,7 +499,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Os Muzzarelas[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Muzzarelas[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/UXEXkvz.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Muzzarelas</externallink>
 <fanart></fanart>
@@ -507,7 +507,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Os Simpsons[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Os Simpsons[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/NgXcWfA.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Os_Simpsons</externallink>
 <fanart></fanart>
@@ -515,7 +515,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Pantera Cor de Rosa[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Pantera Cor de Rosa[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/r9tdAD4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Pantera_Cor_de_Rosa</externallink>
 <fanart></fanart>
@@ -524,7 +524,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Papa Léguas e Coyote[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Papa Léguas e Coyote[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/4TByHVa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Papa_Leguas_e_Coyote</externallink>
 <fanart></fanart>
@@ -533,7 +533,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Patolino e Seus Amigos[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Patolino e Seus Amigos[/COLOR][/B][/I]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/2414001/316656.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Patolino_e_seus_amigos</externallink>
 <fanart></fanart>
@@ -541,7 +541,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Pernalonga[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Pernalonga[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/89CfEWy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Pernalonga</externallink>
 <fanart></fanart>
@@ -550,7 +550,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Pica Pau[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Pica Pau[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2TlDKT9</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Pica-Pau</externallink>
 <fanart></fanart>
@@ -559,7 +559,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Projeto Zeta[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Projeto Zeta[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/LqiMOH0.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Projeto_Zeta</externallink>
 <fanart></fanart>
@@ -567,7 +567,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]QUE LEGAL SCOOB DOO![/COLOR][/B]</name>
+<name>[I][COLOR white][B]QUE LEGAL SCOOB DOO![/COLOR][/B][/I]</name>
 <thumbnail>https://tinyurl.com/rtexrnm</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/SCOOB-DOO/QUE_LEGAL_SCOOB_DOO!</externallink>
 <fanart></fanart>
@@ -576,7 +576,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Rei Arthur[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Rei Arthur[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/3cdVVTk</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Rei_Arthur</externallink>
 <fanart></fanart>
@@ -585,7 +585,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Space Ghost[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Space Ghost[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/37TAXpe</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Space_Ghost</externallink>
 <fanart></fanart>
@@ -593,7 +593,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Speed Racer[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Speed Racer[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2TeSRNS</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Speed_Racer</externallink>
 <fanart></fanart>
@@ -602,7 +602,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Super Choque[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Super Choque[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/8Wmj8qq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Super_Choque</externallink>
 <fanart></fanart>
@@ -610,7 +610,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Super amigos[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Super amigos[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/kpQqWWx.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Superamigos</externallink>
 <fanart></fanart>
@@ -618,7 +618,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Superman A Série Animada[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Superman A Série Animada[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2Ijeub1</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Superman_A_Serie_Animada</externallink>
 <fanart></fanart>
@@ -627,7 +627,7 @@
 
 
 <channel>
-<name>[COLOR white][B]Thundercast Classico[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Thundercast Classico[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/OyYAPuZ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Thundercats</externallink>
 <fanart></fanart>
@@ -635,7 +635,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Thundercast 2011[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Thundercast 2011[/COLOR][/B][/I]</name>
 <thumbnail>https://bit.ly/2Vd53S6</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/THUNDERCAST_2011</externallink>
 <fanart></fanart>
@@ -643,7 +643,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Tom & Jerry[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Tom & Jerry[/COLOR][/B][/I]</name>
 <thumbnail>https://i.imgur.com/tnJqz4H.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Tom_e_Jerry</externallink>
 <fanart></fanart>
@@ -651,7 +651,7 @@
 </channel>
 
 <channel>
-<name>[COLOR white][B]Uma Família da Pesada[/COLOR][/B]</name>
+<name>[I][COLOR white][B]Uma Família da Pesada[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/tEmilXs.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/Uma_Familia_da_Pesada</externallink>
 <fanart></fanart>
@@ -660,7 +660,7 @@
 
 
 <channel>
-<name>[COLOR white][B]X-Men Evolution[/COLOR][/B]</name>
+<name>[I][COLOR white][B]X-Men Evolution[/COLOR][/B][/I]</name>
 <thumbnail>http://i.imgur.com/7qJ3Gcy.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Mxq19/Desenhos/master/X-Men_Evolution</externallink>
 <fanart></fanart>
